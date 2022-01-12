@@ -6,7 +6,7 @@ import pandas as pd
 st.set_page_config(
  page_title='Sirkülasyon Testi',
  layout="wide",
- initial_sidebar_state="expanded",
+ initial_sidebar_state="collapsed",
 )
 
 st.sidebar.markdown('''
