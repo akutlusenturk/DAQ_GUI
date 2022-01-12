@@ -3,8 +3,6 @@ import time
 import numpy as np
 import pandas as pd
 
-from komun import *
-
 st.set_page_config(
  page_title='Sirkülasyon Testi',
  layout="wide",
