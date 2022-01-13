@@ -127,7 +127,7 @@ for i in range(len(df)):
     with Pt:
         st.metric("Durağan Basınç",f"{buff[5]} Bar")
     with Vt:
-        st.metric("Gerilim",f"{buff[8]} v")
+        st.metric("Gerilim",f"{buff[8]} V")
     with ft:
         st.metric("Ölçülen Frekans",f"{buff[10]} Hz")
     
